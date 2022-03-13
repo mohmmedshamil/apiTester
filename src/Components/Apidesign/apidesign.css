@@ -1,0 +1,113 @@
+.apidesign{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    gap: .3rem;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: .1rem;
+}
+.apidesign Select{
+    width: 40%;
+    font-size: .8rem;
+
+}
+.apidesign input{
+    font-size: 1rem;
+}
+.css-1s2u09g-control{
+    font-size: .8rem;
+
+}
+.apidesign input{
+    width: 60%;
+    border-radius: .3rem;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: .1rem;
+    font-size: .8rem;
+
+}
+.buttondesign{
+    background-color: #F1D00A;
+    color: white;
+    border: none;
+    font-size: 1rem;
+    font-weight: 600;
+    border-radius: .3rem;
+}
+.buttondesign:hover{
+    
+    border: 1px solid #ffffff;
+
+}
+.textareas input{
+    width: 80%;
+    border:1px solid black;
+    height: 9rem;
+    margin: 0 auto;
+    margin-top: 1rem;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: .1rem;
+    font-size: .8rem;
+    padding: 1rem;
+
+}
+.result{
+    width: 80%;
+    margin: 0 auto;
+    min-height: 2rem;
+    height: auto;
+    margin-top: 2rem;
+}
+.result h1{
+    color: #F1D00A;
+    font-size: 1rem;
+}
+.resultmain{
+    background-color: #fff;
+    color: black;
+    border: 1px solid black;
+    width: 80%;
+    min-height: 2rem;
+    height: auto;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: .1rem;
+}
+.statuscode{
+    width: 100%;
+}
+.statuscodeh4{
+    width: 20%;
+    padding: 1rem;
+    background-color: #fff;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 2% 50%;
+    font-size: .6rem;
+}
+.resultmain pre{
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: .1rem;
+    font-size: .8rem;
+}
+.textareas,.textareasdisable{
+    width: 80%;
+    margin: 0 auto;
+}
+.textareasdisable input{
+    pointer-events: none;
+        opacity: 0.5;
+    background: #CCC;
+    width: 80%;
+    border:1px solid black;
+    height: 9rem;
+    margin: 0 auto;
+    margin-top: 1rem;
+    font-size: .8rem;
+
+
+
+}

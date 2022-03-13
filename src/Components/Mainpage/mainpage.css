@@ -1,0 +1,18 @@
+
+.mainpage{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.contents{
+    width: 80%;
+    color: aliceblue;
+    margin: 0 auto;
+}
+.contents p{
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: .1rem;
+    font-size: 1rem;
+}
